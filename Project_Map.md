@@ -39,4 +39,9 @@
 5. CREATING THE BANNER
 
 - <!-- Create a Banner.js file and Banner component in App.js, just above the row. Banner component will return a header element, which will have a title section, a div with buttons for play, and a description section -->
+- <!-- Import useState, useEffect, axios, and request.js files, then setup a state to control the movie to be shown on banner. In banner component, create a useEffect hook that will hold a fetchData function -->
+- <!--  -->
+- <!--  -->
+- <!--  -->
+- <!--  -->
 - <!--  -->
