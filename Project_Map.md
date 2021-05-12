@@ -44,8 +44,11 @@
 
 6. CREATING THE NAVBAR
 
-- <!-- Create files for Nav.js and Nav.css -->
-- <!--  -->
+- <!-- Create files for Nav.js and Nav.css. Nav.js will return the netflix logo, which would then be added to the App -->
+
+7. CREATING TRAILER POPUPS
+
+- <!-- This effect would require 2 packages: REACT YOUTUBE & MOVIE-TRAILER. React-Youtube will take in 2 arguments; Trailer url - which will and options - which will customize the player tab. -->
 - <!--  -->
 - <!--  -->
 <!--  -->
