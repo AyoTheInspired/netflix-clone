@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-// import { IoGlasses } from "react-icons/fa";
 import "./Nav.css";
 
 function Nav() {
@@ -24,12 +23,12 @@ function Nav() {
 				className="nav__logo"
 			/>
 
-			<div className="nav__now-showing">
+			{/* <div className="nav__now-showing">
 				<h3 className="now__showing__title">
-					Now Showing: {/* <IoGlasses /> */}{" "}
+					Now Showing: <IoGMdEventSeatlasses />
 				</h3>
 				<h3 className="now__showing__text">In Progress</h3>
-			</div>
+			</div> */}
 
 			{/* <img src="" alt="" className="nav__avatar" /> */}
 		</div>
