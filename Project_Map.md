@@ -49,8 +49,9 @@
 7. CREATING TRAILER POPUPS
 
 - <!-- This effect would require 2 packages: REACT YOUTUBE & MOVIE-TRAILER. React-Youtube will take in 2 arguments; Trailer url - which will and options - which will customize the player tab. -->
-- <!--  -->
-- <!--  -->
-<!--  -->
+- <!-- Setup a state value which would initially hold the trailerUrl as an empty string. Then setup an onClick function on each movie image, passing in the movie as an argument... this goes to the handleClick function. Handle click function would then do some code magic to get trailer of the movie clicked on - only works for the Netflix Original genre. -->
 
-A FEW CHANGES MADE ON MY DELL LAPTOP
+8. DEPLOYING TO FIREBASE
+
+- <!-- Open terminal in vscode and run firebase login, firebase init, configure the needful with git (optional), then firebase deploy to see the magic!!!! -->
+- <!--  -->

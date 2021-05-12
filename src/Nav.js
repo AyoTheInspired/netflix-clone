@@ -25,10 +25,10 @@ function Nav() {
 			/>
 
 			<div className="nav__now-showing">
-				<h4 className="now__showing__title">
-					now showing {/* <IoGlasses /> */}{" "}
-				</h4>
-				<h3 className="now__showing__text">random text</h3>
+				<h3 className="now__showing__title">
+					Now Showing: {/* <IoGlasses /> */}{" "}
+				</h3>
+				<h3 className="now__showing__text">In Progress</h3>
 			</div>
 
 			{/* <img src="" alt="" className="nav__avatar" /> */}
