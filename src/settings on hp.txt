@@ -1,0 +1,33 @@
+{
+	"editor.minimap.enabled": false,
+	"indentRainbow.colors": [
+		"rgba(255,255,64,0.07)",
+		"rgba(127,255,127,0.07)",
+		"rgba(255,127,255,0.05)",
+		"rgba(79,236,236,0.07)"
+	],
+	"editor.wordWrap": "bounded",
+	"editor.tabSize": 1,
+	"prettier.useTabs": true,
+	"emmet.excludeLanguages": ["markdown"],
+	"emmet.includeLanguages": {
+		"javascript": "javascriptreact"
+	},
+	"javascript.format.semicolons": "insert",
+	"typescript.format.semicolons": "insert",
+	"liveServer.settings.donotShowInfoMsg": true,
+    "css-auto-prefix.enabled": false,
+	"prettier.jsxBracketSameLine": true,
+	"editor.formatOnSave": true,
+	"beautify.ignore": "",
+	"beautify.language": {
+		"js": {
+			"type": ["javascript", "javascriptreact", "json", "jsonc"],
+			"filename": [".jshintrc", ".jsbeautifyrc"]
+		},
+		"css": ["css", "less", "scss"],
+		"html": ["htm", "html"]
+	},
+	"editor.defaultFormatter": "esbenp.prettier-vscode",
+	"debug.javascript.terminalOptions": {}
+}
