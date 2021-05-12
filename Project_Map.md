@@ -40,8 +40,11 @@
 
 - <!-- Create a Banner.js file and Banner component in App.js, just above the row. Banner component will return a header element, which will have a title section, a div with buttons for play, and a description section -->
 - <!-- Import useState, useEffect, axios, and request.js files, then setup a state to control the movie to be shown on banner. In banner component, create a useEffect hook that will hold a fetchData function. Essentially, fetchData function will make another axios request to fetch a random movie from Netflix Originals genre. -->
-- <!--  -->
-- <!--  -->
+- <!-- In header element returned in banner, wrap a banner header element around the banner__contents div, banner buttons, & banner__description. Then create a banner.css file to style that  -->
+
+6. CREATING THE NAVBAR
+
+- <!-- Create files for Nav.js and Nav.css -->
 - <!--  -->
 - <!--  -->
 - <!--  -->
